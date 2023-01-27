@@ -39,7 +39,7 @@ BERT를 이용하여 각 대학의 SDGs활동에 대한 분류를 진행하였�
  평화(Peace) |16<br>
  협력(Partnership) | 17<br>
 
-<img width="904" alt="image" src="https://user-images.githubusercontent.com/100064247/209542632-7fab28a6-6a33-49b2-a987-1772288db26b.png">
+<p align="center"><img width="904" alt="image" src="https://user-images.githubusercontent.com/100064247/209542632-7fab28a6-6a33-49b2-a987-1772288db26b.png"></p>
 
 
 ## Data
@@ -59,7 +59,7 @@ pip install git+https://github.com/haven-jeon/PyKoSpacing.git
 ```
 
 ## Methodology
-<img width="700" alt="스크린샷 2022-11-06 오후 9 47 32" src="https://user-images.githubusercontent.com/91872769/200171603-6a40263c-2939-40d5-9110-9fd28b8d71e2.png">
+<p align="center"><img width="700" alt="스크린샷 2022-11-06 오후 9 47 32" src="https://user-images.githubusercontent.com/91872769/200171603-6a40263c-2939-40d5-9110-9fd28b8d71e2.png"></p>
 
 ## Classification Model Accuracy
 
@@ -72,9 +72,9 @@ pip install git+https://github.com/haven-jeon/PyKoSpacing.git
 ### URL
 https://hajin0324.github.io/SustainED/
 
-<img width="1373" alt="image" src="https://user-images.githubusercontent.com/100064247/209541853-649cdbab-a10a-4e2c-8f83-d6075abc4e2f.png">
-<img width="1403" alt="image" src="https://user-images.githubusercontent.com/100064247/209541916-d213d381-b42a-421b-8db9-66b85b2f3681.png">
-<img width="1399" alt="image" src="https://user-images.githubusercontent.com/100064247/209541954-46efea0b-6e04-4f47-8515-bbc5409dc34d.png">
+<p align="center"><img width="1373" alt="image" src="https://user-images.githubusercontent.com/100064247/209541853-649cdbab-a10a-4e2c-8f83-d6075abc4e2f.png"></p>
+<p align="center"><img width="1403" alt="image" src="https://user-images.githubusercontent.com/100064247/209541916-d213d381-b42a-421b-8db9-66b85b2f3681.png"></p>
+<p align="center"><img width="1399" alt="image" src="https://user-images.githubusercontent.com/100064247/209541954-46efea0b-6e04-4f47-8515-bbc5409dc34d.png"></p>
 
 
 ### Dashboard Description
